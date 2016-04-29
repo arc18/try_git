@@ -1,1 +1,1 @@
-# Just trying to learn git.
+Just trying to learn git.
